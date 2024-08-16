@@ -1,2 +1,2 @@
 # Dynamics
-Dynamics static website
+Dynamics static website.
