@@ -917,18 +917,23 @@ Whether you’re setting up a new Montessori classroom or enhancing an existing 
     <div class="container">
       <div class="row">
         <div class="col-md-6 ">
-          <form action="#">
+          <form action="https://api.web3forms.com/submit" method="POST" >
+
+            <input type="hidden" name="access_key" value="821a29c7-8c52-4572-942d-177056e54467">
             <div>
-              <input type="text" placeholder="Name" />
+              <input type="text" placeholder="Name" name="Customer_Name"/>
             </div>
             <div>
-              <input type="email" placeholder="Email" />
+              <input type="email" placeholder="Email" name="Customer_Email"/>
             </div>
             <div>
-              <input type="text" placeholder="Pone Number" />
+              <input type="text" placeholder="Pone Number" name="Contact_Number"/>
             </div>
             <div>
-              <input type="text" class="message-box" placeholder="Message" />
+              <input type="text" class="message-box" placeholder="Message" name="Customer_Message"/>
+            </div>
+            <div>
+              <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
             </div>
             <div class="d-flex  mt-4 ">
               <button>
@@ -1011,10 +1016,10 @@ Whether you’re setting up a new Montessori classroom or enhancing an existing 
         <div class="col-md-3">
           <h5>Contact Us</h5>
           <ul>
-              <li>
+              <!-- <li>
                   <i class="fas fa-map-marker-alt"></i> 
                   <span>Your Address Here</span>
-              </li>
+              </li> -->
               <li>
                   <i class="fas fa-user"></i>
                   <span>Ms Shanthi S.</span>
