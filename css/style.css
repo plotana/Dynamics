@@ -172,7 +172,7 @@ a:focus {
   margin: 0 auto;
   -webkit-transform: translateY(50px);
           transform: translateY(50px);
-  height: 80%;
+  height: 90%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -492,10 +492,10 @@ a:focus {
   outline: none;
   border: none;
   border-radius: 30px;
-  border: 1px solid #fa0909;
-  color: #fff;
+  border: 1px solid #ffff00;
+  color: #000000;
   font-weight: bold;
-  background-color: #fa0909;
+  background-color: #ffff00;
 }
 
 .contact_section .map_section {
