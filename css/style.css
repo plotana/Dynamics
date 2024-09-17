@@ -82,7 +82,7 @@ body {
   width: 65%;
   left: 50%;
   height: 2.5px;
-  background-color: #ffff00;
+  background-color: #ffb938;
   bottom: 8px;
   margin: 0 auto;
   display: block;
@@ -186,7 +186,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 {
-  color: #ffff00;
+  color: #ffb938;
   font-size: 1.8rem;
   text-transform: uppercase;
   font-weight: 400;
@@ -210,7 +210,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 12px 45px;
-  background-color: #ffff00;
+  background-color: #ffb938;
   color: #050505;
   border-radius: 0;
   text-transform: uppercase;
@@ -218,7 +218,7 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn-1:hover {
-  background-color: #e6e600;
+  background-color: #ffb938;
 }
 
 .slider_section .detail-box .btn-box .btn-2 {
@@ -249,7 +249,7 @@ a:focus {
   width: 20px;
   height: 20px;
   opacity: 1;
-  background-color: #ffff00;
+  background-color: #ffb938;
   border-radius: 100%;
 }
 
@@ -271,7 +271,7 @@ a:focus {
 .offer_section .content-box .img-box {
   min-width: 125px;
   min-height: 115px;
-  background-color: #e6e600;
+  background-color: #ffb938;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -344,7 +344,7 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 12px 45px;
-  background-color: #ffff00;
+  background-color: #ffb938;
   color: #050505;
   border-radius: 0;
   text-transform: uppercase;
@@ -352,7 +352,7 @@ a:focus {
 }
 
 .about_section .detail-box a:hover {
-  background-color: #e6e600;
+  background-color: #ffb938;
 }
 
 .client_section {
@@ -492,10 +492,10 @@ a:focus {
   outline: none;
   border: none;
   border-radius: 30px;
-  border: 1px solid #ffff00;
+  border: 1px solid #ffb938;
   color: #000000;
   font-weight: bold;
-  background-color: #ffff00;
+  background-color: #ffb938;
 }
 
 .contact_section .map_section {
@@ -562,7 +562,7 @@ a:focus {
   border-radius: 30px;
   color: #050505;
   text-transform: uppercase;
-  background-color: #ffff00;
+  background-color: #ffb938;
   -webkit-transform: translate(-102%);
           transform: translate(-102%);
   margin-top: 2.5px;
