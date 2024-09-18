@@ -53,7 +53,7 @@ body {
 }
 
 .header_section {
-  background-color: #90953b;
+  background-color: #03532d;
 }
 
 .header_section .container-fluid {
@@ -352,7 +352,7 @@ a:focus {
 }
 
 .about_section .detail-box a:hover {
-  background-color: #ffb938;
+  background-color: #e6e600;
 }
 
 .client_section {
